@@ -5,7 +5,7 @@ PHP script to resolve [natas 15 challenge](http://overthewire.org/wargames/natas
 # Dependencies
 
 #### PHP Curl:
-`sudo apt install -y php-curl`
+`sudo apt install -y php php-curl`
 
 # How to run
 
